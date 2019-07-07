@@ -10,6 +10,7 @@
 # 5.If solve returns True weve solved the puzzle so return True and break solve method
 # 6.If solve doesnt return true, reset the index that was modified and iterate up in possible numbers
 # 7.If we cant find a solution, return False
+# 8. Runtime -> O(a very big number)
 #===========================================================================================================================================
 #create a class to contain the sudoku
 class Sudoku:
